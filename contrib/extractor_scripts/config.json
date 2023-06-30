@@ -18,19 +18,10 @@
             "walkableHeight": 5.0
         }
     },
-	"532": {
-		"3552": {
-			"maxSimplificationError": 1.0,
-			"detailSampleDist": 0.5,
-			"detailSampleMaxError": 0.5,
-			"walkableHeight": 5.0,
-			"walkableClimb": 4.0
-		}
-	},
-        "542": {
-                "walkableSlopeAngle":50,
-                "walkableClimb": 5.0
-        },
+    "542": {
+            "walkableSlopeAngle":50,
+            "walkableClimb": 5.0
+    },
 	"545": {
 		"maxSimplificationError": 2.1,
 		"detailSampleDist": 0.7,
